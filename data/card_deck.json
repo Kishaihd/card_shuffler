@@ -1,0 +1,275 @@
+{
+  "backImg": "b1fv.png",
+  "cards": [
+    {
+      "suit": "Spades",
+      "rank": "Ace",
+      "img": "2.png"
+    },
+    {
+      "suit": "Spades",
+      "rank": "2",
+      "img": "50.png"
+    },
+    {
+      "suit": "Spades",
+      "rank": "3",
+      "img": "46.png"
+    },
+    {
+      "suit": "Spades",
+      "rank": "4",
+      "img": "42.png"
+    },
+    {
+      "suit": "Spades",
+      "rank": "5",
+      "img": "38.png"
+    },
+    {
+      "suit": "Spades",
+      "rank": "6",
+      "img": "34.png"
+    },
+    {
+      "suit": "Spades",
+      "rank": "7",
+      "img": "30.png"
+    },
+    {
+      "suit": "Spades",
+      "rank": "8",
+      "img": "26.png"
+    },
+    {
+      "suit": "Spades",
+      "rank": "9",
+      "img": "22.png"
+    },
+    {
+      "suit": "Spades",
+      "rank": "10",
+      "img": "50.png"
+    },
+    {
+      "suit": "Spades",
+      "rank": "Jack",
+      "img": "14.png"
+    },
+    {
+      "suit": "Spades",
+      "rank": "Queen",
+      "img": "10.png"
+    },
+    {
+      "suit": "Spades",
+      "rank": "King",
+      "img": "6.png"
+    },
+    {
+      "suit": "Diamonds",
+      "rank": "Ace",
+      "img": "4.png"
+    },
+    {
+      "suit": "Diamonds",
+      "rank": "2",
+      "img": "52.png"
+    },
+    {
+      "suit": "Diamonds",
+      "rank": "3",
+      "img": "48.png"
+    },
+    {
+      "suit": "Diamonds",
+      "rank": "4",
+      "img": "44.png"
+    },
+    {
+      "suit": "Diamonds",
+      "rank": "5",
+      "img": "40.png"
+    },
+    {
+      "suit": "Diamonds",
+      "rank": "6",
+      "img": "36.png"
+    },
+    {
+      "suit": "Diamonds",
+      "rank": "7",
+      "img": "32.png"
+    },
+    {
+      "suit": "Diamonds",
+      "rank": "8",
+      "img": "28.png"
+    },
+    {
+      "suit": "Diamonds",
+      "rank": "9",
+      "img": "24.png"
+    },
+    {
+      "suit": "Diamonds",
+      "rank": "10",
+      "img": "20.png"
+    },
+    {
+      "suit": "Diamonds",
+      "rank": "Jack",
+      "img": "16.png"
+    },
+    {
+      "suit": "Diamonds",
+      "rank": "Queen",
+      "img": "12.png"
+    },
+    {
+      "suit": "Diamonds",
+      "rank": "King",
+      "img": "8.png"
+    },
+    {
+      "suit": "Clubs",
+      "rank": "King",
+      "img": "5.png"
+    },
+    {
+      "suit": "Clubs",
+      "rank": "Queen",
+      "img": "9.png"
+    },
+    {
+      "suit": "Clubs",
+      "rank": "Jack",
+      "img": "13.png"
+    },
+    {
+      "suit": "Clubs",
+      "rank": "10",
+      "img": "17.png"
+    },
+    {
+      "suit": "Clubs",
+      "rank": "9",
+      "img": "21.png"
+    },
+    {
+      "suit": "Clubs",
+      "rank": "8",
+      "img": "25.png"
+    },
+    {
+      "suit": "Clubs",
+      "rank": "7",
+      "img": "29.png"
+    },
+    {
+      "suit": "Clubs",
+      "rank": "6",
+      "img": "33.png"
+    },
+    {
+      "suit": "Clubs",
+      "rank": "5",
+      "img": "37.png"
+    },
+    {
+      "suit": "Clubs",
+      "rank": "4",
+      "img": "41.png"
+    },
+    {
+      "suit": "Clubs",
+      "rank": "3",
+      "img": "45.png"
+    },
+    {
+      "suit": "Clubs",
+      "rank": "2",
+      "img": "49.png"
+    },
+    {
+      "suit": "Clubs",
+      "rank": "Ace",
+      "img": "1.png"
+    },
+    {
+      "suit": "Hearts",
+      "rank": "King",
+      "img": "7.png"
+    },
+    {
+      "suit": "Hearts",
+      "rank": "Queen",
+      "img": "11.png"
+    },
+    {
+      "suit": "Hearts",
+      "rank": "Jack",
+      "img": "15.png"
+    },
+    {
+      "suit": "Hearts",
+      "rank": "10",
+      "img": "19.png"
+    },
+    {
+      "suit": "Hearts",
+      "rank": "9",
+      "img": "23.png"
+    },
+    {
+      "suit": "Hearts",
+      "rank": "8",
+      "img": "27.png"
+    },
+    {
+      "suit": "Hearts",
+      "rank": "7",
+      "img": "31.png"
+    },
+    {
+      "suit": "Hearts",
+      "rank": "6",
+      "img": "35.png"
+    },
+    {
+      "suit": "Hearts",
+      "rank": "5",
+      "img": "39.png"
+    },
+    {
+      "suit": "Hearts",
+      "rank": "4",
+      "img": "43.png"
+    },
+    {
+      "suit": "Hearts",
+      "rank": "3",
+      "img": "47.png"
+    },
+    {
+      "suit": "Hearts",
+      "rank": "2",
+      "img": "51.png"
+    },
+    {
+      "suit": "Hearts",
+      "rank": "Ace",
+      "img": "3.png"
+    },
+    {
+      "suit": null,
+      "rank": "Joker",
+      "img": "53.png"
+    },
+    {
+      "suit": null,
+      "rank": "Joker",
+      "img": "54.png"
+    }
+  ]
+}
